@@ -115,7 +115,9 @@ streamlit run app.py
 
 # Screenshots
 
-Coming Soon
+## 📸 Application Screenshots
+
+![Database Copilot Screens](assets/database_copilot_screens.png)
 
 ---
 
