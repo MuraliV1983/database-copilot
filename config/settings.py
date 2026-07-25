@@ -1,0 +1,5 @@
+APP_NAME = "Database Copilot"
+APP_VERSION = "1.0.0"
+
+DEFAULT_DB_PORT = 3306
+DEFAULT_SSH_PORT = 22
