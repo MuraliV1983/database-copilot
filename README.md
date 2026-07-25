@@ -144,18 +144,15 @@ Coming Soon
 ## V. Muralidharan
 
 Senior Database Developer
-
 MySQL Specialist
-
 AWS EC2 Administrator
 
-Python Developer
 
 LinkedIn
 https://www.linkedin.com/in/dharanv/
 
 GitHub
-https://github.com/MuraliV1983/database-copilot
+https://github.com/MuraliV1983/
 
 ---
 
