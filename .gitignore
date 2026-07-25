@@ -1,11 +1,41 @@
-venv/
+# Python
 __pycache__/
-*.pyc
-*.pem
-*.log
-.streamlit/
-.idea/
-.vscode/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
 .env
-db.txt
+.env.*
+
+# IDE
+.vscode/
+.idea/
+
+# Streamlit
+.streamlit/
+
+# Logs
 logs/*.log
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python cache
+.pytest_cache/
+.mypy_cache/
+
+# Build
+dist/
+build/
+*.egg-info/
+
+# Temporary
+*.tmp
+*.bak
+
+# Database
+*.db
